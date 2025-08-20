@@ -1,0 +1,23 @@
+[
+    {
+        "name": "MEGA Truck",
+        "length": 13600,
+        "width": 2400,
+        "height": 2800,
+        "capacity": 26000
+    },
+    {
+        "name": "MEGA HIGH Truck",
+        "length": 13600,
+        "width": 2400,
+        "height": 3000,
+        "capacity": 26000
+    },
+    {
+        "name": "TRACTOR",
+        "length": 9000,
+        "width": 2400,
+        "height": 2600,
+        "capacity": 15000
+    }
+]
